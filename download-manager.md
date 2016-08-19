@@ -1,0 +1,1 @@
+Eloquent Store has its own built in download manager. Our download manager utilises a system called [WebTorrent](https://webtorrent.io/) which means our users to download apps faster and means we can continue to provide our service for free.
