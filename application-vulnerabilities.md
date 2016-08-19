@@ -4,6 +4,10 @@ links:
     -
         title: How to I uninstall an app?
         slug: removing-apps
+        
+    -
+        title: I have discovered a virus
+        slug: virus-discovery
 ---
 If you think you've found a vulnerability in an application that you downloaded from Eloquent Store, then the first thing you should do is report it to the developer. You can find the developers support contact details on the application page on Eloquent Store.
 
