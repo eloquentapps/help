@@ -12,3 +12,18 @@ sections:
             -
                 title: How do I update my apps?
                 slug: updating-apps
+            
+            -
+                title: How to I uninstall an app?
+                slug: removing-apps
+                
+    -
+        title: Security
+        articles:
+             -
+                title: I think I have discovered a vulnerability in an application I downloaded from Eloquent Store, what should I do?
+                slug: application-vulnerabilities
+                
+            -
+                title: I think I have found a virus in an application I downloaded from Eloquent Store, what should I do?
+                slug: virus-discovery
