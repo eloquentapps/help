@@ -8,3 +8,7 @@ sections:
             -
                 title: I've just downloaded an app, how do I run it?
                 slug: how-do-i-run-an-app
+                
+            -
+                title: How do I update my apps?
+                slug: updating-apps
