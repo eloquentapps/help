@@ -1,0 +1,10 @@
+title: Eloquent Store Help
+subtitle: Find answers to common questions about Eloquent Store here.
+
+sections:
+    -
+        title: Getting Started
+        articles:
+            -
+                title: I've just downloaded an app, how do I run it?
+                slug: how-do-i-run-an-app
