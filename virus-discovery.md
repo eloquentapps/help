@@ -1,5 +1,5 @@
 ---
-title: I think I have discovered a vulnerability in an application I downloaded from Eloquent Store, what should I do?
+title: I think I have found a virus in an application I downloaded from Eloquent Store, what should I do?
 links:
     -
         title: How to I uninstall an app?
