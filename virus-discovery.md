@@ -5,7 +5,7 @@ links:
         title: How to I uninstall an app?
         slug: removing-apps
     -
-        title: I think I have discovered a vulnerability in an application I downloaded from Eloquent Store, what should I do?
+        title: I have discovered a vulnerability
         slug: application-vulnerabilities
 ---
 
